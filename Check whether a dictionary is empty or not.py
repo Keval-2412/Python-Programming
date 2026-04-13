@@ -1,0 +1,5 @@
+d = {'k'}
+if not d:
+    print("Dictionary is empty")
+else:
+    print("Dictionary is not empty")
